@@ -1,7 +1,7 @@
 # Cheat-sheets
 cheetsheet for occasional view or reminder.
 
-Also, view this cheatsheets which are not in PDF format:-
+Resources & other cheatsheets:-
 
 1. Python : https://lnkd.in/grD8XUS6
  2. Pandas : https://lnkd.in/g4yTJ7CP
